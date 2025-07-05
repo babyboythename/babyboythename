@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @babyboythename
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Havard This is CS50 Course
 - 💞️ I’m looking to collaborate on anything I need halp with
 - 📫 How to reach me email: jj.real.jm@gmail.com
 
